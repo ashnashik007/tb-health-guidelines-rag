@@ -1,0 +1,27 @@
+﻿services:
+  - type: web
+    name: tb-guidelines-api
+    runtime: python
+    plan: 1c-2g
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: uvicorn main:app --app-dir backend --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    disk:
+      name: tb-guidelines-data
+      mountPath: /var/data
+      sizeGB: 5
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.14.8
+      - key: GROQ_API_KEY
+        sync: false
+      - key: DOCUMENT_ADMIN_KEY
+        sync: false
+      - key: FRONTEND_ORIGINS
+        sync: false
+      - key: CHROMA_PERSIST_DIR
+        value: /var/data/chroma_db
+      - key: DATA_DIR
+        value: /var/data/documents
+      - key: HF_HOME
+        value: /var/data/huggingface

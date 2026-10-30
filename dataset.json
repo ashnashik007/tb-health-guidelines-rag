@@ -1,0 +1,302 @@
+[
+  {
+    "id": "TC-01",
+    "question": "What is the recommended standard treatment regimen for drug-susceptible pulmonary tuberculosis?",
+    "question_category": "Answerable - Treatment Regimens",
+    "expected_answer": "A 6-month regimen consisting of 2 months of isoniazid, rifampicin, pyrazinamide, and ethambutol (2HRZE) followed by 4 months of isoniazid and rifampicin (4HR).",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 11 (Executive Summary) / Page 18: 'In patients with newly diagnosed pulmonary tuberculosis, a 6-month regimen composed of HRZE for 2 months followed by HR for 4 months is recommended.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-02",
+    "question": "What is the 4-month regimen containing rifapentine and moxifloxacin for drug-susceptible TB?",
+    "question_category": "Answerable - Treatment Regimens",
+    "expected_answer": "In patients aged 12 years and older with drug-susceptible pulmonary TB, a 4-month regimen composed of rifapentine, isoniazid, pyrazinamide, and moxifloxacin (2HPMZ/2HPM) may be used as an alternative to the 6-month regimen.",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 12 / Page 30: 'In patients aged 12 years and older with drug-susceptible pulmonary TB, a 4-month regimen composed of rifapentine, isoniazid, pyrazinamide and moxifloxacin (2HPMZ/2HPM) may be used.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-03",
+    "question": "What is the recommended treatment regimen for children with non-severe tuberculosis?",
+    "question_category": "Answerable - Treatment Regimens",
+    "expected_answer": "In children and adolescents under 16 years with non-severe TB, a 4-month regimen (2 months of HRZ with or without ethambutol, followed by 2 months of HR) is recommended.",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 12 / Page 34: 'In children and adolescents between 3 months and 16 years of age with non-severe TB, a 4-month regimen (2HRZ(E)/2HR) should be used rather than the standard 6-month regimen.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-04",
+    "question": "Should fixed-dose combination (FDC) tablets be used rather than separate drug formulations in TB treatment?",
+    "question_category": "Answerable - Treatment Regimens",
+    "expected_answer": "Fixed-dose combination (FDC) tablets of daily treatment are recommended over separate drug formulations to simplify administration and prevent selective non-adherence.",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 12 / Page 28: 'The use of fixed-dose combination (FDC) tablets of daily treatment is recommended over separate drug formulations.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-05",
+    "question": "When should antiretroviral therapy (ART) be initiated in TB patients co-infected with HIV?",
+    "question_category": "Answerable - TB & HIV Coinfection",
+    "expected_answer": "Antiretroviral therapy (ART) should be started within 2 weeks of starting TB treatment, regardless of CD4 count, except in cases of tuberculous meningitis.",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 13 / Page 41: 'ART should be started within 2 weeks of starting TB treatment, regardless of CD4 count.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-06",
+    "question": "Are adjuvant corticosteroids recommended in patients with tuberculous meningitis?",
+    "question_category": "Answerable - Special Clinical Conditions",
+    "expected_answer": "Yes, initial adjuvant corticosteroid therapy with dexamethasone or prednisolone is recommended for patients with tuberculous meningitis.",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 13 / Page 41: 'In patients with tuberculous meningitis, an initial adjuvant corticosteroid therapy with dexamethasone or prednisolone is recommended.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-07",
+    "question": "What is recommended regarding adjuvant corticosteroid therapy in tuberculous pericarditis?",
+    "question_category": "Answerable - Special Clinical Conditions",
+    "expected_answer": "Initial adjuvant corticosteroid therapy may be used in patients with tuberculous pericarditis.",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 13 / Page 42: 'In patients with tuberculous pericarditis, an initial adjuvant corticosteroid therapy may be used.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-08",
+    "question": "Is community-based or home-based treatment support preferred over health facility-based treatment?",
+    "question_category": "Answerable - Patient Support & Care",
+    "expected_answer": "Community- or home-based treatment support is recommended over treatment support that is provided only at a health facility or unsupervised.",
+    "expected_source_document": "who_tb_care.pdf",
+    "verified_page_number_or_passage": "Page 9 / Page 15: 'Community- or home-based treatment support is recommended over health facility-based treatment or unsupervised treatment.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-09",
+    "question": "Who should administer treatment support for people with tuberculosis?",
+    "question_category": "Answerable - Patient Support & Care",
+    "expected_answer": "Treatment support administered by trained lay providers or healthcare workers is recommended over support administered by family members or unsupervised treatment.",
+    "expected_source_document": "who_tb_care.pdf",
+    "verified_page_number_or_passage": "Page 9 / Page 15: 'Treatment support administered by trained lay providers or health-care workers is recommended over support provided by family members or unsupervised treatment.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-10",
+    "question": "Can video-supported treatment (VOT) replace in-person treatment observation?",
+    "question_category": "Answerable - Adherence & Digital Health",
+    "expected_answer": "Video-supported treatment (VOT) can replace in-person treatment observation when communication technology is available, organized, and operated appropriately.",
+    "expected_source_document": "who_tb_care.pdf",
+    "verified_page_number_or_passage": "Page 10 / Page 16: 'Video-supported treatment may replace in-person treatment observation when the video communication technology is available and can be appropriately organized.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-11",
+    "question": "What role does material support play in improving TB treatment outcomes?",
+    "question_category": "Answerable - Patient Support & Care",
+    "expected_answer": "Material support such as food, vouchers, or transportation subsidies is conditionally recommended to improve treatment adherence and completion rates.",
+    "expected_source_document": "who_tb_care.pdf",
+    "verified_page_number_or_passage": "Page 10 / Page 17: 'Material support (such as food, financial incentives or transport subsidies) may be offered to patients on TB treatment.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-12",
+    "question": "Should TB treatment care be decentralized to outpatient clinics or centralized in hospitals?",
+    "question_category": "Answerable - Patient Support & Care",
+    "expected_answer": "Decentralized treatment care at peripheral health facilities or community levels is recommended over centralized hospital-based treatment to reduce costs and increase access.",
+    "expected_source_document": "who_tb_care.pdf",
+    "verified_page_number_or_passage": "Page 10 / Page 24: 'A decentralized model of care is recommended over a centralized model for patients with tuberculosis.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-13",
+    "question": "What is the recommended starting dose of Metformin for managing Type 2 Diabetes?",
+    "question_category": "Insufficient Evidence - Non-TB Medical",
+    "expected_answer": "I couldn't find this in the provided guidelines.",
+    "expected_source_document": "None (Out of Guidelines)",
+    "verified_page_number_or_passage": "Not present in WHO TB Guidelines Module 4.",
+    "guideline_version_or_date": "N/A",
+    "expected_behavior": "STRICT_FALLBACK"
+  },
+  {
+    "id": "TC-14",
+    "question": "What is the recommended schedule for COVID-19 mRNA booster vaccinations?",
+    "question_category": "Insufficient Evidence - Non-TB Medical",
+    "expected_answer": "I couldn't find this in the provided guidelines.",
+    "expected_source_document": "None (Out of Guidelines)",
+    "verified_page_number_or_passage": "Not present in WHO TB Guidelines Module 4.",
+    "guideline_version_or_date": "N/A",
+    "expected_behavior": "STRICT_FALLBACK"
+  },
+  {
+    "id": "TC-15",
+    "question": "What are the surgical resection lobectomy techniques and bronchial closure protocols for complex cavitary TB?",
+    "question_category": "Insufficient Evidence - Uncovered Tuberculosis Details",
+    "expected_answer": "I couldn't find this in the provided guidelines.",
+    "expected_source_document": "None (Out of Guidelines)",
+    "verified_page_number_or_passage": "Not detailed in Module 4 DS-TB medical guidelines.",
+    "guideline_version_or_date": "N/A",
+    "expected_behavior": "STRICT_FALLBACK"
+  },
+  {
+    "id": "TC-16",
+    "question": "What is the first-line oral antibiotic regimen for acute Lyme disease erythema migrans?",
+    "question_category": "Insufficient Evidence - Non-TB Medical",
+    "expected_answer": "I couldn't find this in the provided guidelines.",
+    "expected_source_document": "None (Out of Guidelines)",
+    "verified_page_number_or_passage": "Not present in WHO TB Guidelines Module 4.",
+    "guideline_version_or_date": "N/A",
+    "expected_behavior": "STRICT_FALLBACK"
+  },
+  {
+    "id": "TC-17",
+    "question": "What is the therapeutic plasma exchange protocol for treating Guillain-Barré syndrome?",
+    "question_category": "Insufficient Evidence - Non-TB Medical",
+    "expected_answer": "I couldn't find this in the provided guidelines.",
+    "expected_source_document": "None (Out of Guidelines)",
+    "verified_page_number_or_passage": "Not present in WHO TB Guidelines Module 4.",
+    "guideline_version_or_date": "N/A",
+    "expected_behavior": "STRICT_FALLBACK"
+  },
+  {
+    "id": "TC-18",
+    "question": "What is the chemotherapy staging protocol for extensive-stage small-cell lung carcinoma?",
+    "question_category": "Insufficient Evidence - Non-TB Medical",
+    "expected_answer": "I couldn't find this in the provided guidelines.",
+    "expected_source_document": "None (Out of Guidelines)",
+    "verified_page_number_or_passage": "Not present in WHO TB Guidelines Module 4.",
+    "guideline_version_or_date": "N/A",
+    "expected_behavior": "STRICT_FALLBACK"
+  },
+  {
+    "id": "TC-19",
+    "question": "Is intermittent (three-times-weekly) dosing still recommended for drug-susceptible TB treatment?",
+    "question_category": "Conflicting / Evolving Recommendations",
+    "expected_answer": "No. In patients with drug-susceptible pulmonary TB, the use of thrice-weekly intermittent therapy is not recommended, either in the intensive phase or the continuation phase; daily dosing throughout therapy is recommended.",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 25 / Page 40: 'The use of thrice-weekly intermittent therapy is not recommended... daily dosing is recommended throughout the duration of treatment.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-20",
+    "question": "How does the duration of the 4-month rifapentine-moxifloxacin regimen compare to the standard 6-month regimen, and who is eligible?",
+    "question_category": "Conflicting / Evolving Recommendations",
+    "expected_answer": "The 4-month 2HPMZ/2HPM regimen is 2 months shorter than the standard 6-month HRZE regimen and is an alternative option specifically for individuals aged 12 years and older with drug-susceptible pulmonary TB.",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 12 / Page 30-33: 'A 4-month regimen composed of rifapentine, isoniazid, pyrazinamide and moxifloxacin (2HPMZ/2HPM) may be used... in patients aged 12 years and older.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-21",
+    "question": "Does current WHO guidance favor hospitalizing TB patients or treating them in ambulatory outpatient settings?",
+    "question_category": "Conflicting / Evolving Recommendations",
+    "expected_answer": "WHO guidance prioritizes ambulatory, decentralized outpatient care over routine hospitalization, restricting hospital admissions to severe clinical complications or emergencies.",
+    "expected_source_document": "who_tb_care.pdf",
+    "verified_page_number_or_passage": "Page 10 / Page 24-28: 'A decentralized model of care is recommended over a centralized model for patients with tuberculosis.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-22",
+    "question": "Why does WHO recommend trained providers over family members for administering treatment support?",
+    "question_category": "Conflicting / Evolving Recommendations",
+    "expected_answer": "Treatment support from trained lay providers or healthcare workers shows better treatment completion and adherence compared to family member supervision or unsupervised treatment.",
+    "expected_source_document": "who_tb_care.pdf",
+    "verified_page_number_or_passage": "Page 9 / Page 15: 'Trained providers have higher treatment success compared with family members or unsupervised therapy.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-23",
+    "question": "Can ethambutol be safely omitted in the intensive phase for pediatric non-severe TB?",
+    "question_category": "Conflicting / Evolving Recommendations",
+    "expected_answer": "In children and adolescents under 16 with non-severe drug-susceptible TB, a 4-month regimen using 2HRZ (with ethambutol omitted or optional) followed by 2HR is recommended.",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 12 / Page 34: 'In children and adolescents with non-severe TB, a 4-month regimen (2HRZ(E)/2HR) should be used.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-24",
+    "question": "Is pyrazinamide continued beyond the initial 2 months in standard drug-susceptible TB treatment?",
+    "question_category": "Conflicting / Evolving Recommendations",
+    "expected_answer": "No. In the standard 6-month regimen, pyrazinamide is given only in the 2-month intensive phase (2HRZE), and only isoniazid and rifampicin (4HR) are continued in the 4-month continuation phase.",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 11 / Page 18: 'HRZE for 2 months followed by HR for 4 months.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-25",
+    "question": "Why is immediate ART initiation within 2 weeks avoided in patients with tuberculous meningitis and HIV?",
+    "question_category": "Safety-Sensitive - Clinical Contraindications & Toxicity",
+    "expected_answer": "Immediate ART initiation is contraindicated or delayed in tuberculous meningitis due to high risk of severe adverse events and fatal intracranial immune reconstitution inflammatory syndrome (IRIS).",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 13 / Page 41: 'ART is delayed in tuberculous meningitis because immediate ART is associated with more severe adverse events compared to delayed ART.'",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-26",
+    "question": "What should a patient do immediately if they experience symptoms of jaundice or hepatotoxicity while on TB treatment?",
+    "question_category": "Safety-Sensitive - Clinical Contraindications & Toxicity",
+    "expected_answer": "Patients must seek immediate clinical evaluation. Potentially hepatotoxic drugs (rifampicin, isoniazid, pyrazinamide) must be evaluated and managed by a clinician [Needs Clinical Verification].",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 41 / [Needs Clinical Verification for formal toxicity management protocol]",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-27",
+    "question": "Can a tuberculosis patient stop taking their antibiotics once they start feeling better after a few weeks?",
+    "question_category": "Safety-Sensitive - Clinical Contraindications & Toxicity",
+    "expected_answer": "No. Premature cessation of TB treatment leads to disease relapse, persistent infectiousness, and the development of drug-resistant tuberculosis. The entire course must be completed [Needs Clinical Verification].",
+    "expected_source_document": "who_tb_care.pdf",
+    "verified_page_number_or_passage": "Page 9-10 / [Needs Clinical Verification for formal non-adherence hazard statement]",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-28",
+    "question": "Is streptomycin recommended for use in pregnant women with tuberculosis?",
+    "question_category": "Safety-Sensitive - Clinical Contraindications & Toxicity",
+    "expected_answer": "Streptomycin is generally avoided in pregnant women due to the risk of fetal ototoxicity and congenital deafness [Needs Clinical Verification].",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 62 / [Needs Clinical Verification for explicit pregnancy safety annex table]",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-29",
+    "question": "Should a patient double their medication dose if they missed taking their TB pills yesterday?",
+    "question_category": "Safety-Sensitive - Clinical Contraindications & Toxicity",
+    "expected_answer": "Patients should not double doses without medical consultation due to the acute risk of dose-dependent toxicity; adherence tracking and provider consultation are recommended [Needs Clinical Verification].",
+    "expected_source_document": "who_tb_care.pdf",
+    "verified_page_number_or_passage": "Page 17-21 / [Needs Clinical Verification for missed dose catch-up protocols]",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  },
+  {
+    "id": "TC-30",
+    "question": "What are emergency warning signs in pulmonary TB that require urgent hospitalization rather than outpatient care?",
+    "question_category": "Safety-Sensitive - Clinical Contraindications & Toxicity",
+    "expected_answer": "Severe hemoptysis, acute respiratory distress, severe drug reactions, or neurological changes require immediate emergency medical care rather than routine outpatient management [Needs Clinical Verification].",
+    "expected_source_document": "who_tb_treatment.pdf",
+    "verified_page_number_or_passage": "Page 41-43 / [Needs Clinical Verification for acute triage criteria]",
+    "guideline_version_or_date": "WHO Consolidated Guidelines on TB: Module 4 (2022)",
+    "expected_behavior": "IN_GUIDELINES"
+  }
+]
